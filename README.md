@@ -82,16 +82,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=madhukarmayank&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-  
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31g6bvjdu57x5776l2earx5575hy&cover_image=true&theme=default" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
-
+<img src="https://komarev.com/ghpvc/?username=adityakumar48&&style=flat-square" align="center" />
 </div>  
   
 
